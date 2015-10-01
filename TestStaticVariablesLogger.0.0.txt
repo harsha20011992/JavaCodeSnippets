@@ -1,0 +1,8 @@
+1::TestStaticVariablesLogger2::test2::Wed Aug 26 02:44:40 IST 2015::inside TestStaticVariablesLogger2 test2 method
+1::TestStaticVariablesLogger2::test2_2::Wed Aug 26 02:44:40 IST 2015::inside TestStaticVariablesLogger2 test3 method
+1::TestStaticVariablesLogger2::test2::Wed Aug 26 02:47:00 IST 2015::inside TestStaticVariablesLogger2 test2 method
+1::TestStaticVariablesLogger2::test2_2::Wed Aug 26 02:47:00 IST 2015::inside TestStaticVariablesLogger2 test3 method
+1::TestStaticVariablesLogger2::test2::Wed Aug 26 02:50:17 IST 2015::inside TestStaticVariablesLogger2 test2 method
+1::TestStaticVariablesLogger2::test2_2::Wed Aug 26 02:50:17 IST 2015::inside TestStaticVariablesLogger2 test3 method
+1::TestStaticVariablesLogger2::test2::Wed Aug 26 02:50:45 IST 2015::inside TestStaticVariablesLogger2 test2 method
+1::TestStaticVariablesLogger2::test2_2::Wed Aug 26 02:50:45 IST 2015::inside TestStaticVariablesLogger2 test3 method

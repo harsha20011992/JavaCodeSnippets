@@ -1,0 +1,1 @@
+1::TestStaticVariables::main::Wed Aug 26 02:50:45 IST 2015::inside TestStaticVariables main method
